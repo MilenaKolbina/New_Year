@@ -1,0 +1,13 @@
+C:\Users\OOP14\source\repos\новый год\новый год\bin\Debug\новый год.exe.config
+C:\Users\OOP14\source\repos\новый год\новый год\bin\Debug\новый год.exe
+C:\Users\OOP14\source\repos\новый год\новый год\bin\Debug\новый год.pdb
+C:\Users\OOP14\source\repos\новый год\новый год\obj\Debug\новый год.csprojAssemblyReference.cache
+C:\Users\OOP14\source\repos\новый год\новый год\obj\Debug\новый_год.Form1.resources
+C:\Users\OOP14\source\repos\новый год\новый год\obj\Debug\новый_год.Game.resources
+C:\Users\OOP14\source\repos\новый год\новый год\obj\Debug\новый_год.Loss.resources
+C:\Users\OOP14\source\repos\новый год\новый год\obj\Debug\новый_год.Properties.Resources.resources
+C:\Users\OOP14\source\repos\новый год\новый год\obj\Debug\новый_год.Success.resources
+C:\Users\OOP14\source\repos\новый год\новый год\obj\Debug\новый год.csproj.GenerateResource.cache
+C:\Users\OOP14\source\repos\новый год\новый год\obj\Debug\новый год.csproj.CoreCompileInputs.cache
+C:\Users\OOP14\source\repos\новый год\новый год\obj\Debug\новый год.exe
+C:\Users\OOP14\source\repos\новый год\новый год\obj\Debug\новый год.pdb
