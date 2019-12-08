@@ -106,42 +106,47 @@
             this.button3.TabIndex = 9;
             this.button3.Text = "А";
             this.button3.UseVisualStyleBackColor = true;
+            this.button3.Click += new System.EventHandler(this.Button3_Click);
             // 
             // button4
             // 
-            this.button4.Location = new System.Drawing.Point(413, 254);
+            this.button4.Location = new System.Drawing.Point(413, 246);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(75, 50);
             this.button4.TabIndex = 10;
             this.button4.Text = "П";
             this.button4.UseVisualStyleBackColor = true;
+            this.button4.Click += new System.EventHandler(this.Button4_Click);
             // 
             // button5
             // 
-            this.button5.Location = new System.Drawing.Point(109, 247);
+            this.button5.Location = new System.Drawing.Point(514, 172);
             this.button5.Name = "button5";
             this.button5.Size = new System.Drawing.Size(75, 57);
             this.button5.TabIndex = 11;
             this.button5.Text = "К";
             this.button5.UseVisualStyleBackColor = true;
+            this.button5.Click += new System.EventHandler(this.Button5_Click);
             // 
             // button6
             // 
-            this.button6.Location = new System.Drawing.Point(413, 171);
+            this.button6.Location = new System.Drawing.Point(109, 243);
             this.button6.Name = "button6";
             this.button6.Size = new System.Drawing.Size(75, 57);
             this.button6.TabIndex = 12;
             this.button6.Text = "М";
             this.button6.UseVisualStyleBackColor = true;
+            this.button6.Click += new System.EventHandler(this.Button6_Click);
             // 
             // button7
             // 
-            this.button7.Location = new System.Drawing.Point(109, 171);
+            this.button7.Location = new System.Drawing.Point(17, 170);
             this.button7.Name = "button7";
             this.button7.Size = new System.Drawing.Size(75, 56);
             this.button7.TabIndex = 13;
             this.button7.Text = "Ё";
             this.button7.UseVisualStyleBackColor = true;
+            this.button7.Click += new System.EventHandler(this.Button7_Click);
             // 
             // button8
             // 
@@ -151,42 +156,47 @@
             this.button8.TabIndex = 14;
             this.button8.Text = "Б";
             this.button8.UseVisualStyleBackColor = true;
+            this.button8.Click += new System.EventHandler(this.Button8_Click);
             // 
             // button9
             // 
-            this.button9.Location = new System.Drawing.Point(209, 320);
+            this.button9.Location = new System.Drawing.Point(307, 320);
             this.button9.Name = "button9";
             this.button9.Size = new System.Drawing.Size(75, 40);
             this.button9.TabIndex = 15;
             this.button9.Text = "Ф";
             this.button9.UseVisualStyleBackColor = true;
+            this.button9.Click += new System.EventHandler(this.Button9_Click);
             // 
             // button10
             // 
-            this.button10.Location = new System.Drawing.Point(307, 320);
+            this.button10.Location = new System.Drawing.Point(413, 315);
             this.button10.Name = "button10";
             this.button10.Size = new System.Drawing.Size(75, 40);
             this.button10.TabIndex = 16;
             this.button10.Text = "Х";
             this.button10.UseVisualStyleBackColor = true;
+            this.button10.Click += new System.EventHandler(this.Button10_Click);
             // 
             // button11
             // 
-            this.button11.Location = new System.Drawing.Point(307, 254);
+            this.button11.Location = new System.Drawing.Point(514, 243);
             this.button11.Name = "button11";
             this.button11.Size = new System.Drawing.Size(75, 50);
             this.button11.TabIndex = 17;
             this.button11.Text = "Р";
             this.button11.UseVisualStyleBackColor = true;
+            this.button11.Click += new System.EventHandler(this.Button11_Click);
             // 
             // button12
             // 
-            this.button12.Location = new System.Drawing.Point(413, 320);
+            this.button12.Location = new System.Drawing.Point(514, 315);
             this.button12.Name = "button12";
             this.button12.Size = new System.Drawing.Size(75, 40);
             this.button12.TabIndex = 18;
             this.button12.Text = "Ц";
             this.button12.UseVisualStyleBackColor = true;
+            this.button12.Click += new System.EventHandler(this.Button12_Click);
             // 
             // button13
             // 
@@ -196,24 +206,27 @@
             this.button13.TabIndex = 19;
             this.button13.Text = "Ч";
             this.button13.UseVisualStyleBackColor = true;
+            this.button13.Click += new System.EventHandler(this.Button13_Click);
             // 
             // button14
             // 
-            this.button14.Location = new System.Drawing.Point(209, 247);
+            this.button14.Location = new System.Drawing.Point(17, 243);
             this.button14.Name = "button14";
             this.button14.Size = new System.Drawing.Size(75, 57);
             this.button14.TabIndex = 20;
             this.button14.Text = "Л";
             this.button14.UseVisualStyleBackColor = true;
+            this.button14.Click += new System.EventHandler(this.Button14_Click);
             // 
             // button15
             // 
-            this.button15.Location = new System.Drawing.Point(209, 171);
+            this.button15.Location = new System.Drawing.Point(109, 170);
             this.button15.Name = "button15";
             this.button15.Size = new System.Drawing.Size(75, 56);
             this.button15.TabIndex = 21;
             this.button15.Text = "Ж";
             this.button15.UseVisualStyleBackColor = true;
+            this.button15.Click += new System.EventHandler(this.Button15_Click);
             // 
             // button16
             // 
@@ -223,24 +236,27 @@
             this.button16.TabIndex = 22;
             this.button16.Text = "С";
             this.button16.UseVisualStyleBackColor = true;
+            this.button16.Click += new System.EventHandler(this.Button16_Click);
             // 
             // button17
             // 
-            this.button17.Location = new System.Drawing.Point(514, 315);
+            this.button17.Location = new System.Drawing.Point(109, 310);
             this.button17.Name = "button17";
             this.button17.Size = new System.Drawing.Size(75, 50);
             this.button17.TabIndex = 23;
             this.button17.Text = "Т";
             this.button17.UseVisualStyleBackColor = true;
+            this.button17.Click += new System.EventHandler(this.Button17_Click);
             // 
             // button18
             // 
-            this.button18.Location = new System.Drawing.Point(514, 170);
+            this.button18.Location = new System.Drawing.Point(209, 243);
             this.button18.Name = "button18";
             this.button18.Size = new System.Drawing.Size(75, 57);
             this.button18.TabIndex = 24;
             this.button18.Text = "Н";
             this.button18.UseVisualStyleBackColor = true;
+            this.button18.Click += new System.EventHandler(this.Button18_Click);
             // 
             // button19
             // 
@@ -260,24 +276,27 @@
             this.button20.TabIndex = 26;
             this.button20.Text = "Г";
             this.button20.UseVisualStyleBackColor = true;
+            this.button20.Click += new System.EventHandler(this.Button20_Click);
             // 
             // button21
             // 
-            this.button21.Location = new System.Drawing.Point(307, 171);
+            this.button21.Location = new System.Drawing.Point(209, 172);
             this.button21.Name = "button21";
             this.button21.Size = new System.Drawing.Size(75, 56);
             this.button21.TabIndex = 27;
             this.button21.Text = "З";
             this.button21.UseVisualStyleBackColor = true;
+            this.button21.Click += new System.EventHandler(this.Button21_Click);
             // 
             // button22
             // 
-            this.button22.Location = new System.Drawing.Point(514, 91);
+            this.button22.Location = new System.Drawing.Point(307, 170);
             this.button22.Name = "button22";
             this.button22.Size = new System.Drawing.Size(75, 56);
             this.button22.TabIndex = 28;
             this.button22.Text = "И";
             this.button22.UseVisualStyleBackColor = true;
+            this.button22.Click += new System.EventHandler(this.Button22_Click);
             // 
             // button23
             // 
@@ -287,6 +306,7 @@
             this.button23.TabIndex = 29;
             this.button23.Text = "Д";
             this.button23.UseVisualStyleBackColor = true;
+            this.button23.Click += new System.EventHandler(this.Button23_Click);
             // 
             // button24
             // 
@@ -296,42 +316,47 @@
             this.button24.TabIndex = 30;
             this.button24.Text = "Ш";
             this.button24.UseVisualStyleBackColor = true;
+            this.button24.Click += new System.EventHandler(this.Button24_Click);
             // 
             // button25
             // 
-            this.button25.Location = new System.Drawing.Point(109, 320);
+            this.button25.Location = new System.Drawing.Point(209, 315);
             this.button25.Name = "button25";
             this.button25.Size = new System.Drawing.Size(75, 40);
             this.button25.TabIndex = 31;
             this.button25.Text = "У";
             this.button25.UseVisualStyleBackColor = true;
+            this.button25.Click += new System.EventHandler(this.Button25_Click);
             // 
             // button26
             // 
-            this.button26.Location = new System.Drawing.Point(514, 250);
+            this.button26.Location = new System.Drawing.Point(307, 250);
             this.button26.Name = "button26";
             this.button26.Size = new System.Drawing.Size(75, 50);
             this.button26.TabIndex = 32;
             this.button26.Text = "О ";
             this.button26.UseVisualStyleBackColor = true;
+            this.button26.Click += new System.EventHandler(this.Button26_Click);
             // 
             // button27
             // 
-            this.button27.Location = new System.Drawing.Point(17, 247);
+            this.button27.Location = new System.Drawing.Point(413, 170);
             this.button27.Name = "button27";
             this.button27.Size = new System.Drawing.Size(75, 57);
             this.button27.TabIndex = 33;
             this.button27.Text = "Й";
             this.button27.UseVisualStyleBackColor = true;
+            this.button27.Click += new System.EventHandler(this.Button27_Click);
             // 
             // button28
             // 
-            this.button28.Location = new System.Drawing.Point(17, 171);
+            this.button28.Location = new System.Drawing.Point(514, 89);
             this.button28.Name = "button28";
             this.button28.Size = new System.Drawing.Size(75, 56);
             this.button28.TabIndex = 34;
             this.button28.Text = "Е";
             this.button28.UseVisualStyleBackColor = true;
+            this.button28.Click += new System.EventHandler(this.Button28_Click);
             // 
             // button29
             // 
@@ -341,6 +366,7 @@
             this.button29.TabIndex = 35;
             this.button29.Text = "Щ";
             this.button29.UseVisualStyleBackColor = true;
+            this.button29.Click += new System.EventHandler(this.Button29_Click);
             // 
             // button30
             // 
@@ -350,6 +376,7 @@
             this.button30.TabIndex = 36;
             this.button30.Text = "Ъ";
             this.button30.UseVisualStyleBackColor = true;
+            this.button30.Click += new System.EventHandler(this.Button30_Click);
             // 
             // button31
             // 
@@ -357,8 +384,9 @@
             this.button31.Name = "button31";
             this.button31.Size = new System.Drawing.Size(75, 44);
             this.button31.TabIndex = 37;
-            this.button31.Text = "ы";
+            this.button31.Text = "Ы";
             this.button31.UseVisualStyleBackColor = true;
+            this.button31.Click += new System.EventHandler(this.Button31_Click);
             // 
             // button32
             // 
@@ -368,6 +396,7 @@
             this.button32.TabIndex = 38;
             this.button32.Text = "Ь";
             this.button32.UseVisualStyleBackColor = true;
+            this.button32.Click += new System.EventHandler(this.Button32_Click);
             // 
             // button33
             // 
@@ -377,6 +406,7 @@
             this.button33.TabIndex = 39;
             this.button33.Text = "Я";
             this.button33.UseVisualStyleBackColor = true;
+            this.button33.Click += new System.EventHandler(this.Button33_Click);
             // 
             // button34
             // 
@@ -386,6 +416,7 @@
             this.button34.TabIndex = 40;
             this.button34.Text = "Ю";
             this.button34.UseVisualStyleBackColor = true;
+            this.button34.Click += new System.EventHandler(this.Button34_Click);
             // 
             // button35
             // 
@@ -395,6 +426,7 @@
             this.button35.TabIndex = 41;
             this.button35.Text = "Э";
             this.button35.UseVisualStyleBackColor = true;
+            this.button35.Click += new System.EventHandler(this.Button35_Click);
             // 
             // richTextBox1
             // 
@@ -406,7 +438,6 @@
             // 
             // pictureBox7
             // 
-            this.pictureBox7.BackgroundImage = global::новый_год.Properties.Resources.подарок;
             this.pictureBox7.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pictureBox7.Location = new System.Drawing.Point(763, 459);
             this.pictureBox7.Name = "pictureBox7";
@@ -416,7 +447,6 @@
             // 
             // pictureBox6
             // 
-            this.pictureBox6.BackgroundImage = global::новый_год.Properties.Resources.подарок;
             this.pictureBox6.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pictureBox6.Location = new System.Drawing.Point(891, 459);
             this.pictureBox6.Name = "pictureBox6";
@@ -426,7 +456,6 @@
             // 
             // pictureBox5
             // 
-            this.pictureBox5.BackgroundImage = global::новый_год.Properties.Resources.подарок;
             this.pictureBox5.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pictureBox5.ErrorImage = null;
             this.pictureBox5.InitialImage = null;
@@ -439,7 +468,6 @@
             // 
             // pictureBox4
             // 
-            this.pictureBox4.BackgroundImage = global::новый_год.Properties.Resources.подарок;
             this.pictureBox4.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pictureBox4.Location = new System.Drawing.Point(763, 336);
             this.pictureBox4.Name = "pictureBox4";
@@ -449,7 +477,6 @@
             // 
             // pictureBox3
             // 
-            this.pictureBox3.BackgroundImage = global::новый_год.Properties.Resources.подарок;
             this.pictureBox3.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pictureBox3.Location = new System.Drawing.Point(891, 336);
             this.pictureBox3.Name = "pictureBox3";
@@ -459,7 +486,6 @@
             // 
             // pictureBox2
             // 
-            this.pictureBox2.BackgroundImage = global::новый_год.Properties.Resources.подарок;
             this.pictureBox2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.pictureBox2.Location = new System.Drawing.Point(608, 459);
             this.pictureBox2.Name = "pictureBox2";

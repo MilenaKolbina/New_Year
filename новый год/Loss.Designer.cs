@@ -37,17 +37,17 @@
             // 
             this.pictureBox1.BackgroundImage = global::новый_год.Properties.Resources.мем;
             this.pictureBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
-            this.pictureBox1.Location = new System.Drawing.Point(44, 21);
+            this.pictureBox1.Location = new System.Drawing.Point(189, 21);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(423, 309);
+            this.pictureBox1.Size = new System.Drawing.Size(504, 431);
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(44, 360);
+            this.button1.Location = new System.Drawing.Point(81, 446);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(423, 121);
+            this.button1.Size = new System.Drawing.Size(691, 183);
             this.button1.TabIndex = 1;
             this.button1.Text = "Ты проиграл! Нажми чтобы начать заново";
             this.button1.UseVisualStyleBackColor = true;
@@ -56,7 +56,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(509, 507);
+            this.ClientSize = new System.Drawing.Size(876, 657);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.pictureBox1);
             this.Name = "Loss";
